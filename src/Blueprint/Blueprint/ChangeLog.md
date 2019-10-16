@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Bug Fix: Use user assigned identity defined in the assignment file instead of cmdlet parameter during blueprint assignment.
 
 ## Version 0.2.5
 * Add functionality to make sure Blueprint RP is registered before any service calls
